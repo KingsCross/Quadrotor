@@ -1,4 +1,6 @@
-# ArduPilot Project
+# ArduPilot Project -- Autonomous Quadrotor using RRT & Optimal Path Algorithm. 
+
+All credit and thanks go to the developers of the ArduPilot libraries, which are used for this project.
 
 You can find lots of development information at the [ArduPilot development site](http://dev.ardupilot.com)
 
